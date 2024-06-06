@@ -1,0 +1,2 @@
+INSERT INTO bears (name) VALUES ('Mr. Chocolate'),('Rowdy'),('Tabitha'),('Sergeant Brown'),('Melissa'),('Grinch'),('Wendy');
+INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES (NULL, NULL, NULL, NULL, NULL, NULL);
